@@ -20,7 +20,7 @@ In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 - **Deployment Magic:** Heroku (Making sure my creations fly!)
 - **Other Enchantments:** RESTful APIs, JWT, GraphQL (Because why settle for the mundane?)
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80%" height="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" />
 
 ## 📊 GitHub Incantations
 
