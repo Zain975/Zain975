@@ -2,7 +2,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80%" height="100%" />
 </p>
 
-# 🚀 Hey there! I'm [Your Name], Full Stack Architect of Dreams 💻✨
+# 🚀 Hey there! I'm Zain, Full Stack Architect of Dreams 💻✨
 
 Welcome to my digital playground! I'm not just a developer; I'm a code poet crafting the symphony of web technologies. From frontend elegance to backend wizardry, I bring ideas to life, one line of code at a time.
 
@@ -19,14 +19,6 @@ In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 - **Database Wizardry:** MongoDB, PostgreSQL (Because data deserves respect too!)
 - **Deployment Magic:** Docker, Heroku (Making sure my creations fly!)
 - **Other Enchantments:** RESTful APIs, JWT, GraphQL (Because why settle for the mundane?)
-
-## 🌟 Featured Spells
-
-### [Project Lumos](link-to-lumos)
-Unleashing light on a problem by creating an illuminating web app. My role? Master of Lumos, of course! 🌟
-
-### [Project Marauder](link-to-marauder)
-Navigating the map of challenges, this project required me to be a true Marauder's Map creator. Explore the magic! 🗺️✨
 
 ## 📊 GitHub Incantations
 
