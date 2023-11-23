@@ -14,10 +14,10 @@ As a full-stack developer, I blend creativity with functionality. I build web ex
 
 In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 
-- **Frontend Sorcery:** HTML, CSS, JavaScript, React (I make pixels dance!)
-- **Backend Alchemy:** Node.js, Express, Django (Turning caffeine into code!)
-- **Database Wizardry:** MongoDB, PostgreSQL (Because data deserves respect too!)
-- **Deployment Magic:** Docker, Heroku (Making sure my creations fly!)
+- **Frontend Sorcery:** HTML, CSS, JavaScript, React, Next, React Native (I make pixels dance!)
+- **Backend Alchemy:** Node.js, Express (Turning caffeine into code!)
+- **Database Wizardry:** MongoDB, Firebase/Firestore (Because data deserves respect too!)
+- **Deployment Magic:** Heroku (Making sure my creations fly!)
 - **Other Enchantments:** RESTful APIs, JWT, GraphQL (Because why settle for the mundane?)
 
 ## 📊 GitHub Incantations
@@ -26,9 +26,9 @@ In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 
 ## ✨ Let's Conjure Connections
 
-- [LinkedIn](link-to-linkedin) (Let's connect in the professional realm!)
+- [LinkedIn](https://www.linkedin.com/in/zain-shahzad-2a85721ab) (Let's connect in the professional realm!)
 - [Twitter](link-to-twitter) (140 characters can hold magic too!)
-- [Portfolio Spellbook](link-to-website) (Explore more enchantments!)
+- [Portfolio Spellbook](https://zain-profile.netlify.app/) (Explore more enchantments!)
 
 Feel free to traverse my mystical repositories and join me on this spellbinding coding journey. Let's conjure up greatness together! ✨🚀
 
