@@ -22,7 +22,7 @@ In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 
 ## 📊 GitHub Incantations
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zain975&show_icons=true&theme=radical)](https://github.com/Zain975)
 
 ## ✨ Let's Conjure Connections
 
