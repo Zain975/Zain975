@@ -14,10 +14,10 @@ As a full-stack developer, I blend creativity with functionality. I build web ex
 
 In my toolkit, you'll find a mix of cutting-edge and battle-tested technologies:
 
-- **Frontend Sorcery:** HTML, CSS, JavaScript, React, Next, React Native (I make pixels dance!)
-- **Backend Alchemy:** Node.js, Express (Turning caffeine into code!)
-- **Database Wizardry:** MongoDB, Firebase/Firestore (Because data deserves respect too!)
-- **Deployment Magic:** Heroku (Making sure my creations fly!)
+- **Frontend Sorcery:** HTML, CSS, JavaScript, TypeScript, React, Next, React Native (I make pixels dance!)
+- **Backend Alchemy:** Node.js, Express, Nest (Turning caffeine into code!)
+- **Database Wizardry:** MongoDB,PostgreSQL, Firebase/Firestore (Because data deserves respect too!)
+- **Deployment Magic:** AWS, Heroku, Render, Vercel (Making sure my creations fly!)
 - **Other Enchantments:** RESTful APIs, JWT, GraphQL (Because why settle for the mundane?)
 
 ## 📊 GitHub Incantations
